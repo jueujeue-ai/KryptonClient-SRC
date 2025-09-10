@@ -65,6 +65,7 @@ public final class ModuleManager {
         this.a(new TargetHUD());
         this.a(new Krypton());
         this.a(new SelfDestruct());
+        this.a(new ChunkFinder());
     }
 
     public List<Module> b() {
